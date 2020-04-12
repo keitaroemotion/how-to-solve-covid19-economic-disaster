@@ -39,6 +39,8 @@ now a lot of companies does telework, but for instance some of the other clerk a
 # governmentVR
 Any govermental procedure would be done on line, the support can be done via this VR.
 
+# Let's use crypto
+In this virtual society, the usage of the crypto currency or the other digital money is highly recommended, this might help the improvement of the crypto industries again. 
 
 # summary
 
