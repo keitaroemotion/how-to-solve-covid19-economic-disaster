@@ -1,6 +1,6 @@
-# mytownVR
+# MytownVR
 
-nowadays, because of the COVID 19, our economy is at risk, taking into account this situation is going to be prolonged so far, we need a VR/3D platform to support 'random shopping' and any face-to-face social activities via the internet, using this online VR.
+Nowadays, because of the COVID 19, our economy is at risk, taking into account this situation is going to be prolonged so far, we need a VR/3D platform to support 'random shopping' and any face-to-face social activities via the internet, using this online VR.
 Remember when the Second Life becomes popular long times ago, we enjoyed it but it won't last long. 
 However, in this tough situation we need to re-consider building our society online, as more visible format.
 
@@ -33,11 +33,16 @@ The platform to enhance the shopping malls, shopping sites, bars, et cetra.
    - we support this payment as platform.
 
 # workVR
-1. - now a lot of companies does telework, but for instance some of the other clerk (and city clerk)
-   also can be hosted in this VR city and provide their services in workVR.
-2  - for example, any govermental procedure would be done on line, the support can be done via this VR.
+now a lot of companies does telework, but for instance some of the other clerk also can be hosted in this VR city and provide their services in workVR.
+
+
+# governmentVR
+Any govermental procedure would be done on line, the support can be done via this VR.
 
 
 # summary
 
 we need to provide the social platform, including goverment thing to support people's economic activity on line, in more visible forms. if we succeeded in supplying it, probably we gonna save the dying industries much more than in the current situation.
+
+
+author: twitter.com/tobasojyo
