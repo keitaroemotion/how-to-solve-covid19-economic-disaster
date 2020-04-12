@@ -22,9 +22,9 @@ The platform to enhance the shopping malls, shopping sites, bars, et cetra.
    freely.
 2. If it is shopping mall or department store, the big 3D object of the buildging are provided
    and there are bunch of shops. (corresponding to the real ones)
-3. If it is apparel store, the user can walk around and can try closes by putting them on their
+3. If it is apparel store, the user can walk around and can try clothes by putting them on their
    avatar.
-4. If it is bar, there are the following procedure:
+4. If it is a bar, the following procedures are:
    - initially, they order drink sequences.
    - after the drink provided, they login (as VR or 3D) to the bar and enjoy drinking with the 
      other avatars(they can chat with the other avatars or if they want they can flirt). 
