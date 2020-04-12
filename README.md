@@ -28,7 +28,7 @@ The platform to enhance the shopping malls, shopping sites, bars, et cetra.
    - initially, they order drink sequences.
    - after the drink provided, they login (as VR or 3D) to the bar and enjoy drinking with the 
      other avatars(they can chat with the other avatars or if they want they can flirt). 
-5. If it is convenient store, they also can walk around in the convini and shop around.
+5. If it is a convenient store, they also can walk around in the convini and shop around.
    - convini supports any kind of convini payment via counter, with VR.
    - we support this payment as platform.
 
@@ -40,4 +40,4 @@ The platform to enhance the shopping malls, shopping sites, bars, et cetra.
 
 # summary
 
-we need to provide the social platform, including goverment thing to support peoples economic activity on line, in more visible forms. if we succeeded in supplying it, probably we gonna save the dying industries much more than in the current situation.
+we need to provide the social platform, including goverment thing to support people's economic activity on line, in more visible forms. if we succeeded in supplying it, probably we gonna save the dying industries much more than in the current situation.
